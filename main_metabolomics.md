@@ -1,9 +1,9 @@
 ---
 layout: workshop_main_2day
-permalink: /metabolomics_2019
-title: Metabolomics 2019
+permalink: /metabolomics_2020
+title: Metabolomics 2020
 header1: Workshop Pages for Students
-header2: Informatics and Statistics for Metabolomics 2019
+header2: Informatics and Statistics for Metabolomics 2020
 image: /site_images/CBW_metabolomics_icon.jpg
 keywords: metabolome-focused experiments, analyzing metabolomic data, metabolome
 description: Course covers many topics ranging from understanding metabolomics technologies, data collection and analysis, using pathway databases, performing pathway analysis, conducting univariate and multivariate statistics, working with metabolomics databases, and exploring chemical databases. 
@@ -13,7 +13,7 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-[Welcome](https://drive.google.com/a/bioinformatics.ca/file/d/1jt4Fk3Ls4YqIDFUc89cmYOvE067Y0w6H/view?usp=sharing) to Informatics and Statistics for Metabolomics 2019.  
+[Welcome](https://drive.google.com/a/bioinformatics.ca/file/d/1jt4Fk3Ls4YqIDFUc89cmYOvE067Y0w6H/view?usp=sharing) to Informatics and Statistics for Metabolomics 2020.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/metabolomics_2019_schedule).
 
@@ -70,7 +70,7 @@ Coming soon
     
 2. GC-MS and <a href="http://gcms.wishartlab.com/">GCMS</a>.  
   
-3. LC-MS and XCMS in R.  If R doesn't work, try [XCMS online](https://xcmsonline.scripps.edu/landing_page.php?pgcontent=mainPage).   
+3. LC-MS and <a href="dev.metaboanalyst.ca">MetaboAnalyst</a>.   
   
   
 #### Data Set and Results Files:
@@ -91,30 +91,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 ##### LC-MS:
 
-[Metadata](https://drive.google.com/open?id=0B8AGit-0OvvcY3NKUGtKR1I2dlE)  
-
-*Raw datasets  (raw.zip files)*  
-
-[CKD raw](https://drive.google.com/open?id=0B8AGit-0OvvcWWxkS2tZZ283QzQ)  
-[Control raw](https://drive.google.com/open?id=0B8AGit-0OvvcMzdzQUwtQ3NhRXM)  
-
-*Converted datasets (mzxml.zip files)*  
-
-[CDK mzxml](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)  
-[Control mzxml](https://drive.google.com/open?id=0B8AGit-0OvvcTlp6WE04RC1zY0k)  
-
-*XCMS using R (results files)*    
-
-[Diffreport](https://drive.google.com/open?id=0B8AGit-0OvvcNGp4Z0diRmxYSlE)  
-[Peak Table](https://drive.google.com/open?id=0B8AGit-0OvvcVnJwbkI3STQzUlk)  
-
-*XCMS online (results files)*  
-
-[Cleaned Diffreport](https://drive.google.com/open?id=0B8AGit-0OvvcM1pPXzhzaXYwNWM)  
-[Normalized Results](https://drive.google.com/open?id=0B8AGit-0OvvcNlRNWWhYYkJOQzg)  
-[Unnormalized Results](https://drive.google.com/open?id=0B8AGit-0OvvcMWJkbUg0a25kamc)  
-  
-  
+Download your [group files](https://drive.google.com/open?id=1vyZlKk9raprkW1-B-xG5rlRKq8pdcACD)
   
 #### Links:
   
